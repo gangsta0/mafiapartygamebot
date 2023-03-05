@@ -9,7 +9,7 @@ from telegram.ext import Updater, CommandHandler
 from host import Host
 from game import GameStatus
 
-token = sys.argv[1]
+token = "6050976711:AAGFCw2GyXsQtcVwUIBwbQm4RSfQtxzLT6U"
 
 logging.basicConfig(filename='bot.log',level=logging.INFO)
 
